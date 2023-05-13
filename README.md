@@ -28,10 +28,12 @@ dependencies {
 
 
 
-| Parameter   | Type     | Default         | Description                                     |
-|-------------|----------|-----------------|-------------------------------------------------|
-| arcColor    | Color    | TWITTER_BLUE    | Color of the circular progress arc              |
-| modifier    | Modifier | Modifier        | Modifier for the composable                     |
-| circleColor | Color    | Color.LightGray | Color of the background circle                  |
-| strokeWidth | Dp       | 4.dp            | Width of the stroke for both the arc and circle |
-| size        | Dp       | 32.dp           | Size of the composable                          |
+
+
+| **Parameter** | **Type** | **Default**     | **Description**                                 |
+|---------------|----------|-----------------|-------------------------------------------------|
+| _arcColor_    | Color    | TWITTER_BLUE    | Color of the circular progress arc              |
+| _modifier_    | Modifier | Modifier        | Modifier for the composable                     |
+| _circleColor_ | Color    | Color.LightGray | Color of the background circle                  |
+| _strokeWidth_ | Dp       | 4.dp            | Width of the stroke for both the arc and circle |
+| _size_        | Dp       | 32.dp           | Size of the composable                          |
