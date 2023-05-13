@@ -21,7 +21,7 @@ Then add the dependency
 
 ```groovy
 dependencies {
-    implementation 'com.github.xcodeBn:TwitterCircularProgress:1.0'
+    implementation 'com.github.xcodeBn:TwitterCircularProgress:5.0'
 }
 ```
 
