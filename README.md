@@ -27,7 +27,7 @@ dependencies {
 
 
  
-
+## Demo
 
 ![demo](https://github.com/xcodeBn/TwitterCircularProgress/assets/86073708/c65a08d0-1640-4648-8572-6e630981a691)
 
@@ -36,6 +36,7 @@ dependencies {
  
 
 
+##Documentation 
 
 | **Parameter** | **Type** | **Default**     | **Description**                                 |
 |---------------|----------|-----------------|-------------------------------------------------|
