@@ -1,6 +1,7 @@
 # Twitter Circular Progress JetPack Compose
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://github.com/xcodeBn/TwitterCircularProgress/blob/main/LICENSE)
+[![](https://jitpack.io/v/xcodeBn/TwitterCircularProgress.svg)](https://jitpack.io/#xcodeBn/TwitterCircularProgress)
 
 A custom circular progress indicator for Jetpack Compose, inspired by the progress bar used on Twitter's website.
 
