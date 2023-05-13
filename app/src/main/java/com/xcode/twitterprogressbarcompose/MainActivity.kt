@@ -53,10 +53,6 @@ fun GreetingPreview() {
         Box(modifier = Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
 
 
-            TwitterCircularProgress(
-                modifier = Modifier,
-                size = 50.dp
-            )
 
         }
 
