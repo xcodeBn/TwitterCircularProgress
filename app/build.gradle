@@ -64,7 +64,7 @@ dependencies {
     androidTestImplementation 'androidx.compose.ui:ui-test-junit4'
     debugImplementation 'androidx.compose.ui:ui-tooling'
     debugImplementation 'androidx.compose.ui:ui-test-manifest'
-    implementation project(":TwitterProgressBar")
+    //implementation project(":TwitterProgressBar")
     //live data
-
+    implementation 'com.github.xcodeBn:TwitterCircularProgress:1.0'
 }

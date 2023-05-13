@@ -10,9 +10,11 @@ android {
     compileSdk 33
 
     defaultConfig {
+
+        versionCode 2
+        versionName "2.0"
         minSdk 26
         targetSdk 33
-
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
     }
@@ -46,10 +48,9 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-
                 groupId = 'com.github.xcodeBn'
                 artifactId = 'twitter-circular-progress'
-                version = '1.0'
+                version = '2.0'
             }
         }
     }
